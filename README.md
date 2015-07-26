@@ -19,5 +19,5 @@ $ node server.js
 
 ###### Serve
 ````bash
-open http://localhost:8080
+And open [http://localhost:8080] (http://localhost:8080 "node/connect template")
 ````
