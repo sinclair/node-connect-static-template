@@ -1,6 +1,6 @@
 # Node/Connect Static Template
 
-###### Install node.js (consider [nvm](https://github.com/creationix/nvm "nvm")
+###### Install [node.js] (https://nodejs.org/ "node.js") ( consider [nvm](https://github.com/creationix/nvm "nvm") )
 
 ###### Install dependencies
 (see .install)
