@@ -17,3 +17,7 @@ $ gulp [scripts]
 $ node server.js 
 ````
 
+###### Serve
+````bash
+open http://localhost:8080
+````
