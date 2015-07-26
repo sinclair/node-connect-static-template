@@ -1,6 +1,6 @@
 # Node/Connect Static Template
 
-install node.js (consider nvm)
+install node.js (consider [nvm](https://www.google.com "nvm"))
 install gulp
 
 (see .install)
